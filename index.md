@@ -13,7 +13,7 @@
 2016-     就读于重庆邮电大学先进制造工程学院
 
 ### 学业
-GPA： 综测排名 1/256 （必修平均分＋科研加分）
+GPA：3.59 综测排名: 1/256 （必修平均分＋科研加分）
 
 国家计算机二级：91 英语四级/六级：580/530
 
@@ -45,7 +45,7 @@ GPA： 综测排名 1/256 （必修平均分＋科研加分）
 
 * 大三学了Stanford CS231n 并用python实现KNN、SVM、CNN等[算法](https://guides.github.com/features/mastering-markdown/)
   
-- 大二
+- 大二:
   - 学习C++与Python并用C++独立完成[魔方机器人](https://guides.github.com/features/mastering-markdown/)
   
     这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
@@ -77,34 +77,7 @@ GPA： 综测排名 1/256 （必修平均分＋科研加分）
   机器人协会会长（优秀社团）规模500人以上
 
 
-### Markdown 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cubhe/cubhe.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
