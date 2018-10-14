@@ -46,6 +46,7 @@ GPA：3.59 综测排名: 1/256 （必修平均分＋科研加分）
 * 大三学了Stanford CS231n 并用python实现KNN、SVM、CNN等[算法](https://guides.github.com/features/mastering-markdown/)
   
 - 大二:
+star:
   - 学习C++与Python并用C++独立完成[魔方机器人](https://guides.github.com/features/mastering-markdown/)
   
     这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
