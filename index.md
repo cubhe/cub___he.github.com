@@ -45,12 +45,13 @@ GPA： 综测排名 1/256 （必修平均分＋科研加分）
 
 * 大三学了Stanford CS231n 并用python实现KNN、SVM、CNN等[算法](https://guides.github.com/features/mastering-markdown/)
   
-*   1. 大二学习C++与Python并用C++独立完成[魔方机器人](https://guides.github.com/features/mastering-markdown/)
+- 大二
+  - 学习C++与Python并用C++独立完成[魔方机器人](https://guides.github.com/features/mastering-markdown/)
   
   这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
   耗时三个月，由于时间原因很多地方没有做完美，不过已经达到我最初的目标了:）
   
-    2. 使用C++和opencv实现一些[图像处理算法](https://guides.github.com/features/mastering-markdown/)
+  - 使用C++和opencv实现一些[图像处理算法](https://guides.github.com/features/mastering-markdown/)
   
     
 * 大一学习C语言并使用C语言完成[矩阵计算器](https://guides.github.com/features/mastering-markdown/)
