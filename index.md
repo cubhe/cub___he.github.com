@@ -52,7 +52,7 @@ GPA：3.5   综合排名: 1/256 (必修平均分＋科研加分)
     这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
     耗时三个月，由于时间原因很多地方没有做完美，不过已经达到我最初的目标了:）
   
-  * 使用C++和opencv实现一些[图像处理算法](https://guides.github.com/features/mastering-markdown/)
+  * 使用C++和opencv实现[一些图像处理算法](https://guides.github.com/features/mastering-markdown/)
   
     
 * 大一学习C语言并使用C语言完成[矩阵计算器](https://guides.github.com/features/mastering-markdown/)
@@ -76,9 +76,3 @@ GPA：3.5   综合排名: 1/256 (必修平均分＋科研加分)
 * 2018-2019
 
   机器人协会会长（优秀社团）规模500人以上
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cubhe/cubhe.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
