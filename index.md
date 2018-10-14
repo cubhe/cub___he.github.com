@@ -4,7 +4,7 @@
 
 接下来我会介绍一下我自己 ,来帮助你更好的了解我。
 
-我的邮箱地址是 herenzhie@gmail.com
+我的邮箱地址是 [herenzhie@gmail.com](herenzhie@gmail.com)
 
 
 ### 教育背景
