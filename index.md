@@ -60,7 +60,7 @@
     这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
     耗时三个月，由于时间原因很多地方没有做完美，不过已经达到我最初的目标了:）
     
-    ![Image of cube_robot]( https://github.com/cubhe/cubhe.github.com/raw/master/cube_robot.jpg )
+    ![Image of cube_robot]( cubhe.github.com/cube_robot.jpg  )
   
   * 使用C++和opencv实现[一些图像处理算法](https://github.com/cubhe/OpenCV)
   
