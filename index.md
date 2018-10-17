@@ -51,7 +51,7 @@
   
 ## 技能学习以及小项目
 
-* 大三学了Stanford CS231n 并用python实现KNN、SVM、CNN等[算法](https://github.com/cubhe/CS231n)
+* 大三学了Stanford CS231n 并用python实现KNN、SVM等[算法](https://github.com/cubhe/CS231n)(正在写)
   
 * 大二:
   * 学习C++与Python并用C++独立完成[魔方机器人](http://www.bilibili.com/video/av33816219?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1539494189856
@@ -62,7 +62,7 @@
     
     ![Image of cube_robot]( cubhe.github.com/cube_robot.jpg  )
   
-  * 使用C++和opencv实现[一些图像处理算法](https://github.com/cubhe/OpenCV)
+  * 使用C++和opencv实现[一些图像处理算法](https://github.com/cubhe/OpenCV)同时也自己实现了一些底层算法。
   
     
 * 大一学习C语言并使用C语言完成[矩阵计算器](https://github.com/cubhe/Matrix_Computation.)
