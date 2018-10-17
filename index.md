@@ -67,7 +67,7 @@
     
 * 大一学习C语言并使用C语言完成[矩阵计算器](https://github.com/cubhe/Matrix_Computation.)
 
-## 志愿者经历或领导能力
+## 志愿者经历与领导能力
 
 * 2016-2017
 
