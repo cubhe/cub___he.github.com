@@ -46,7 +46,7 @@
 
 * 2018-2019 大三
 
-  * ~~发表论文《xxx》（正准备发)~~
+  * IEEE iors 一作 正在写。
   
   * 参与重庆市级项目《基于多元信息的工业机器人柔性装配研究》负责工件的快速识别与高精度定位（目前正在做）
   
@@ -57,6 +57,8 @@
 ## 技能学习以及小项目
 
 * 大三：
+   * 准备制作cubli：a reaction wheel based 3D invert pendulun 已经完成3D建模
+
    * 学了Stanford CS231n 并用python实现KNN、SVM等[算法](https://github.com/cubhe/CS231n)(正在写)
     
    * 学了esp8266开发板连接物联网的基本操作
