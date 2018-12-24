@@ -57,7 +57,8 @@
 
 * 大三：
    * 准备制作cubli：a reaction wheel based 3D invert pendulun 已经完成3D建模
-
+     ![Image of cubli]( cubhe.github.com/cubli.png  )
+     
    * 学了Stanford CS231n 并用python实现KNN、SVM等[算法](https://github.com/cubhe/CS231n)(正在写)
     
    * 学了esp8266开发板连接物联网的基本操作
