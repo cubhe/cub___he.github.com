@@ -8,8 +8,7 @@
 大学三年我积攒了C++和python编程的技能（主要是C++）也掌握了一些Matlab基本操作,能够熟练使用solidworks。同时也有较强的英文能力，基本上可以与人沟通和阅读专业论文。也参加过不少比赛，有一定的动手能力。同时也担任过机器人协会会长与班学长，能与他人良好的沟通。具体内容我会在下面详细说明。
 
 
-> 推荐看看我大二时候做的[魔方机器人的视频](http://www.bilibili.com/video/av33816219?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1539494189856
-)还是挺有意思 我挺喜欢的 希望你也能喜欢：）
+> 推荐看看我大二时候做的[魔方机器人的视频](https://www.bilibili.com/video/av39119098?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1545876742959)还是挺有意思 我挺喜欢的 希望你也能喜欢：）
 
 
 ## 教育背景 
@@ -65,7 +64,7 @@
    * 学了esp8266开发板连接物联网的基本操作
   
 * 大二:
-  * 学习C++与Python并用C++独立完成[魔方机器人](http://www.bilibili.com/video/av33816219?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1539494189856
+  * 学习C++与Python并用C++独立完成[魔方机器人](https://www.bilibili.com/video/av39119098?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1545876742959
 )（点击观看~）
   
     这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
