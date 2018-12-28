@@ -64,8 +64,8 @@
    * 学了esp8266开发板连接物联网的基本操作
   
 * 大二:
-  * 学习C++与Python并用C++独立完成[魔方机器人](https://www.bilibili.com/video/av39119098?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1545876742959
-)（点击观看~）
+  * 学习C++与Python并用C++独立完成[魔方机器人(点击观看)](https://www.bilibili.com/video/av39119098?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1545876742959
+)
   
     这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
     耗时三个月，由于时间原因很多地方没有做完美，不过已经达到我最初的目标了:）在这个过程中学习了单片机的开发和并电脑的通信、电机驱动、小型C++项目的开发、和一些机械加工的技能。
