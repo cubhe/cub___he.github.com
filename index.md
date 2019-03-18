@@ -19,7 +19,7 @@
 2016-至今     就读于重庆邮电大学先进制造工程学院
 
 ## 学业
-综合排名: 1 (必修平均分＋科研/比赛加分)
+综合排名: 1/249 (必修平均分＋科研/比赛加分) 专业排名 2
 
 国家计算机二级：91
 
@@ -57,13 +57,9 @@
   
 ## 技能学习以及小项目
 
-* 大三：
-   * 准备制作cubli：a reaction wheel based 3D invert pendulun 已经完成3D建模
-     ![Image of cubli]( cubhe.github.com/cubli.png  )
-     
-   * 学了Stanford CS231n 并用python实现KNN、SVM等[算法](https://github.com/cubhe/CS231n)(正在写)
-    
-   * 学了esp8266开发板连接物联网的基本操作
+* 大一学习C语言并使用C语言完成[矩阵计算器](https://github.com/cubhe/Matrix_Computation.)
+
+
   
 * 大二:
   * 学习C++与Python并用C++独立完成[魔方机器人(点击观看)](https://www.bilibili.com/video/av39119098?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1545876742959
@@ -76,8 +72,16 @@
   
   * 使用C++和opencv实现[一些图像处理算法](https://github.com/cubhe/OpenCV)同时也自己实现了一些底层算法。
   
+* 大三：
+   * 准备制作cubli：a reaction wheel based 3D invert pendulun 已经完成3D建模
+     ![Image of cubli]( cubhe.github.com/cubli.png  )
+     
+   * 学了Stanford CS231n 并用python实现KNN、SVM等[算法](https://github.com/cubhe/CS231n)(正在写)
     
-* 大一学习C语言并使用C语言完成[矩阵计算器](https://github.com/cubhe/Matrix_Computation.)
+   * 学了esp8266开发板连接物联网的基本操作
+   
+   * 准备制作单点平衡方块，目前国内还没有人做出来过
+
 
 ## 志愿者经历与领导能力
 
@@ -97,4 +101,4 @@
 
 * 2018-2019
 
-  机器人协会会长（十佳精品社团）规模700人以上
+  机器人协会会长（十佳精品社团）规模600人以上
