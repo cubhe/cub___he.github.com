@@ -1,114 +1,81 @@
-# 欢迎来到我的GitHub主页 
+# <p align="center"> 贺仁智 
+<p align="center"> 📞 (+86)15123357722  📧 cubhe@foxmail.com 
 
-## 研究方向&个人简介 Research Project & Introduction
+## 教育背景 Education background
+ 
+ ---
+ 
+重庆大学，重庆&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2020-至今
+在读硕士研究生 机械与运载工程学院, 保送,  TOEFL 109，2023年6月毕业
 
-我是贺仁智，目前在重庆大学的一名研究生。
-
-我对机器人具有强烈兴趣。并愿意为此奉献自己所有时间。我曾独立开发过魔方机器人，也获得过多个机器人相关的国家级奖项和其他专业相关的国家级奖项。对机器人控制算法与机器视觉十分感兴趣，希望能深入学习和实践相关知识。
-
-在理论方面，我学习方向是控制和计算机视觉。专业排名2 综测排名1。获得过全国大学生数学竞赛重庆市一等奖、过全国大学生英语竞赛二等奖，能通顺阅读英文文献。
-
-在社工方面，我目前担任机器人协会会长（600人以上）也担任过班学长。乐于指导学弟学妹参加比赛并传授自己的经验。在我担任会长期间，机器人协会获得过十佳社团，获得过国家级奖项20余项，省级奖项20余项。
-
-
+重庆邮电大学，重庆&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2016-2020   
+机械电子工程，绩点排名 2/120，综测排名1/120，四六级 579/531  
 
 
-## 学业 
+## 科研经历 Research Experience
+ 
+*Multi-task learning for Single Image Depth and Defocus Estimation*&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.09-至今  
+•	Submitted to < IEEE Transactions on Pattern Analysis and Machine Intelligence >  
+•	提出一种基于多任务学习的结构同时学习深度地图以及离焦地图  
+•	制作数据集All-in-3D。该数据集包含<全清晰图像，深度图，离焦图像以及对焦深度>包含了500个场景，10万组数据，是目前与离焦图片, 深度图片相关的最大数据集。  
+•	完善硬件系统代码以及上位机处理程序 ( PYQT, VIMBA SDK)  
+ 
+*Precise Point Spread Function Estimation(离焦点扩散函数估计)* Arxiv&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.06-2022.03  
+•	Submitted to < IEEE Transactions on Image Processing>  
+•	提出一种新的测定图像离焦点扩散函数的方法。(非神经网络方法)  
+•	提出基于CUDA的离焦图像生成算法 (GitHub 2 star)  
+•	制作基于结构光系统以及自动对焦系统的硬件平台  
+•	提出一种新的衡量离焦图像相似度的损失函数  
+ 
+学习Shape from Focus、Structured Light相关知识&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2020.09-2021.05  
+•	制作自动对焦系统的硬件平台  
+•	提出一种衡量离焦图像清晰度的方法 (相关论文under review)  
+ 
+与他人合作的工作  
+•	基于phase-shifting与神经网络的三维测量方法 (负责指导)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.05-至今  
+•	基于PVDF/钛酸钡压电材料机器学习辅助的心音诊断系统(负责机器学习部分)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.05-至今  
+•	基于机器学习的石墨烯传感器信息加密方法 (负责机器学习部分 under review)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2021.03-2021.08  
 
-综合排名: 1/249 (必修平均分＋科研/比赛加分) 专业排名 2
+## 项目经历 Project Experience   
+ 
+研究生期间参与三项国家级军工项目(经费共900万)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2020.09-至今  
 
-国家计算机二级：91  
+制作魔方机器人 (zhihu 198 like, 242 favorite)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2017.10-2018.05  
+•	机器人结构的机械设计以及加工( Solidworks )  
+•	视觉识别以及算法求解, ( OpenCV, C++ )  
+•	电机&舵机控制( stm32, C )  
 
-英语四级/六级：580/530
+制作单点平衡方块 ( zhihu 77 like 154 favorite)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2019.10-2020.07  
+•	该方块能够通过内部搭载的三个动量轮实现单点平衡以及单边平衡。原型为ETH的cubli。  
+•	机电一体化设计( Solidworks、Adams )  
+•	控制算法，动力学仿真 (LQR, PID, Simulink & Adams)  
+•	电机控制( stm32, C, Maxon )  
+ 
+制作五子棋机器人 ( zhihu 19 like 19 favorite)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;2020.6-2020.07  
+•	计算机视觉 (OpenCV &  python)  
+•	五子棋机器人机构设计  
+ 
+## 获奖Honors & Awards  
+| | | 
+|---|---| 
+| •	2018-2019学年国家奖学金(全校40人)   |   |   
+| •	2019年中国工程机器人大赛暨国际公开赛 				| 一等奖  |   
+| •	2019年全国大学生数学建模竞赛 重庆赛区				| 一等奖   |   
+|•	2018年中国工程机器人大赛暨国际公开赛 				|一等奖(季军)   
+|•	第十一届全国大学生先进成图与产品建模比赛3D打印		|二等奖  
+|•	2017年全国大学生英语竞赛 						|二等奖  
+|•	第十届全国大学生先进成图与产品建模大赛 尺规作图项目 		|二等奖  
+|•	第十一届全国大学生机器人创意大赛 					|入围奖  
 
-## 获奖 Honors & Awards
-
-* 2019-2020 大四
-  * 主持一项校级科研项目
-
-* 2018-2019 大三
-
-  * 中国工程机器人大赛暨国际公开赛 一等奖
-  
-  * 参与重庆市级项目《基于多元信息的工业机器人柔性装配研究》负责工件的快速识别与高精度定位（目前正在做）
-  
-  * 全国大学生数学建模竞赛 重庆赛区一等奖
-  
-
-* 2017-2018 大二
-
-  * 中国工程机器人大赛暨国际公开赛 一等奖(亚军)
-
-  * 全国大学生机器人创意大赛 入围奖
-
-  * 全国大学生先进成图与产品建模比赛 3D打印 二等奖
-
-  * 参与校级科研项目“混合物料抓取”负责物体的形状识别和颜色识别
-
-* 2016-2017 大一
-
-  * 全国大学生英语竞赛 二等奖
-
-  * 全国大学生先进成图与产品建模大赛 尺规作图项目 二等奖
-  
-  * 学业一等奖学金（1%）
-  
-## 技能学习 Skills
-
-  
-* 大三：
-   * 准备制作cubli：a reaction wheel based 3D invert pendulun 已经完成3D建模
-     ![Image of cubli]( cubhe.github.com/cubli.png  )
-     
-   * 学了Stanford CS231n 并用python实现KNN、SVM等[算法](https://github.com/cubhe/CS231n)(正在写)
-    
-   * 学了esp8266开发板连接物联网的基本操作
-   
-   * 准备制作单点平衡方块，目前国内还没有人做出来过
-
-* 大二:
-  * 学习C++与Python并用C++独立完成[魔方机器人(点击观看)](https://www.bilibili.com/video/av39119098?share_medium=android&share_source=copy_link&bbid=062C94C7-71EB-4C64-B933-F3DBE0F89912101704infoc&ts=1545876742959
-)
-  
-    这个魔方机器人从切割钢板与电镀、手指结构设计、底层硬件系统的搭建、与上位机的通信、再到kociemba算法、智能颜色识别全部是由我一人独立完成
-    耗时三个月，由于时间原因很多地方没有做完美，不过已经达到我最初的目标了:）在这个过程中学习了单片机的开发和并电脑的通信、电机驱动、小型C++项目的开发、和一些机械加工的技能。
-    
-    ![Image of cube_robot]( cubhe.github.com/cube_robot.jpg  )
-  
-  * 使用C++和opencv实现[一些图像处理算法](https://github.com/cubhe/OpenCV)同时也自己实现了一些底层算法。
+## 其他经历 Project Experience   
+2021年&ensp;&ensp;担任重庆大学RoboMaster机器人战队视觉组组长。  
+2020年&ensp;&ensp;作为毕业生代表在毕业典礼发言  
+2019年&ensp;&ensp;担任机器人协会会长，  
+•	社团规模发展至600人以上，定期开展科技培训。  
+•	社团成员在2019年获得国家级奖项20余人次。社团获得精品社团称号(rank 4/90).   
+ 
 
 
 
-* 大一学习C语言并使用C语言完成[矩阵计算器](https://github.com/cubhe/Matrix_Computation.)
 
-
-
-## 校园经历 Campus
-
-* 2019-2020 大四
-  * 作为优秀毕业生在毕业典礼发言
-
-* 2018-2019 大三
-
-  * 担任机器人协会会长，将社团规模发展至600人以上。大力发展科技活动，社团成员在2019年获得国家级奖项20余人次。成为获得国奖最多的社团。并获得重庆邮电大学精品社团称号(rank 4/90).
-  
-  * 魔方机器人以学院名义在毕业典礼上捐赠给校史馆
-
-* 2017-2018大二
-
-  * 2018.5 作为领队带领同学参加中国工程机器人大赛暨国际公开赛，并获得一等奖(季军)，我院获得8个一等奖。
-
-  * 2018.6 在华为副总裁来我校演讲时 作为学生代表上台发言。
-
-  * 2018.7 作为领队带领我院同学参加全国大学生先进成图技术与产品信息建模创新大赛，并获得全国二等奖(是我院第一次斩获该奖)。
-
-  * 入党发展对象 志愿者时长48h
-
-* 2016-2017大一
-
-  * 获得优秀团员 志愿者时长30h
-
-  * 暑期优秀社会实践奖
-
-  * 学生会科技综合部干事
 
